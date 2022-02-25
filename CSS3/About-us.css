@@ -1,0 +1,62 @@
+#about-us{
+    height:665px;
+    margin-top: 60px;
+    padding-left: 103px;
+    padding-right: 103px;
+}
+#about-us .col-lg-4 h1{
+    text-align: left;
+    letter-spacing: -0.72px;
+    color: #6F6E6F;
+    opacity: 1;
+    font-size: 3.6rem;
+}
+
+
+#about-us .col-lg-8 h1{
+    text-align: left;
+font-size: 2.9rem;
+letter-spacing: -0.58px;
+color: #0C8FC9;
+opacity: 1;
+
+}
+#about-us .col-lg-8 p{
+    text-align: left;
+    font-size: 2.0rem;
+    letter-spacing: -0.4px;
+    color: #6C6B6C;
+    opacity: 1;
+    margin-top:60px;
+}
+#about-us .basic{
+    width: 100%;
+    height: 330px;
+    margin-top: 50px;
+    border: 25px solid white;
+}
+ #about-us .simg{
+    margin-top: -305px;
+}
+#about-us .simg .col-3 img{
+    width:105px;
+    margin-left: -27px;
+} 
+
+#about-us .scontent{
+   
+    background-color: #19637E;
+    opacity: 0.88;
+    height: 185px;
+}
+
+#about-us ul{
+    text-align: left;
+    font-size: 2rem;
+    letter-spacing: -0.48px;
+    color: #FFFFFF;
+    list-style-type: none;
+    line-height: 1.3;
+    padding: 15px;
+}
+

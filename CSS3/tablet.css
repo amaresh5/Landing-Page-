@@ -1,0 +1,45 @@
+
+@media (min-device-width: 426px) and (max-device-width: 834px)  {
+
+
+#home h1{
+  left:0%;
+  padding-left: 75px;
+  font-size: 8.3rem;
+  letter-spacing: 0px;
+}
+#home h2{
+  left:0%;
+  padding-left: 155px;
+  font-size: 8.3rem;
+  letter-spacing: 0px;
+}
+#home p{
+  left:0%;
+  padding-left: 75px;
+  font-size: 2.5rem;
+  letter-spacing: 0px;
+}
+
+.fff{
+  font-size:2.9rem !important;
+}
+.sss{
+  font-size:1.7rem !important;
+}
+
+.mmm{
+  font-size:1.7rem !important;
+}
+
+#about-us .col-lg-8 p{
+  margin-top: 25px;
+}
+
+#brands .c2 .col-1 img {
+  padding-left: 163px;
+  margin-top: -140px;
+}
+   
+}  
+    

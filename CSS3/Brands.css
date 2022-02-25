@@ -1,0 +1,186 @@
+
+#brands .c1{
+    width: 100vw;
+    padding-top:225px;
+    padding-left: 103px;
+    padding-right: 103px;
+}
+
+#brands .sec1{
+    background-color: #CAE7EE;
+    /* width:100%; */
+    height:713px;
+    margin-top: -130px;
+}
+#brands .col h1{
+    text-align: left;
+    font-size: 4rem;
+    letter-spacing: -0.72px;
+    color: #6F6E6F;
+}
+#brands .col p{
+    text-align: left;
+    font-size: 2rem;
+    letter-spacing: -0.4px;
+    color:  #6C6B6C;
+    line-height: 1.5;
+    
+}
+
+#brands .c2{
+    margin-top:-120px;
+    margin-bottom: 15px;
+    padding-left: 103px;
+    padding-right: 103px;
+}
+#brands .c2 .row{
+    margin-bottom: 15px;
+}
+#brands .c2 .imgwidth{
+    width:100%;
+    height:100%;
+}
+#brands .c2 .c2col{ 
+    background-color: #3792C7;
+}
+#brands .c2 .col-1 img{
+    position: absolute;
+    padding-left: 40px;
+    margin-top: -270px;
+}
+
+#brands .c2 .col-md-12 p{ 
+    text-align: left;
+    font-size: 1.8rem;
+    color: #FFFFFF;
+    padding: 40px;
+}
+#brands .c2 .col-md-12 h1{
+    text-align: center;
+    font-size: 1.8rem;
+    letter-spacing: 3px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 0.5;
+    border: 2px solid white;
+    padding: 10px;
+    margin: 55px;
+    margin-top: -18px;
+}
+#brands .c2 .col-md-12 h2{
+    text-align: center;
+font-size: 1.8rem;
+letter-spacing: 0.75px;
+color: #FFFFFF;
+text-transform: uppercase;
+opacity: 0.8;
+}
+
+#brands .c2 .asdfg h1{
+    text-align: center;
+font-size:2.0rem;
+letter-spacing: -0.4px;
+color: #07587B;
+margin-top:50px;
+}
+#brands .c3{
+    margin-top: 80px;
+    height: 400px;
+    justify-content: center;
+    padding-top: 128px;
+    padding-left: 103px;
+    padding-right: 103px;
+}
+
+#brands .sec2{
+    /* width:100%; */
+    background-color: #C3E2E0;
+    margin-top: -35px;
+    height: 445px;
+}
+#brands .c3 .col-lg-4 h1{
+    text-align: left;
+    font-size: 3.6rem;
+    letter-spacing: -0.72px;
+    color: #6F6E6F;
+    
+}
+#brands .c3 .col-lg-8 h2{
+    text-align: left;
+    letter-spacing: -0.58px;
+    color: #367A97;
+    opacity: 1;
+        font-size: 2.5rem;
+}
+#brands .c3 .col-lg-8 p{
+    text-align: left;
+    font-size: 2.0rem;
+    letter-spacing: -0.4px;
+    color: #6C6B6C;
+    opacity: 1;
+    line-height: 1.5;
+    margin-top: 40px;
+}
+#brands .sec8{
+    background-color: #F6FFFF;
+    margin-top: 50px;
+    height:750px;
+}
+#brands .c4{
+margin-top:-50px;
+padding-left:103px;
+padding-right:103px;
+}
+
+#brands .c4 .r1 .number{
+    border-radius: 50%;
+    width:40px;
+    height: 40px;
+    border: 2px solid #6F6E6F;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #6F6E6F;
+}
+#brands .c4 .r1 h1{
+    text-align: left;
+    font-size: 2.8rem;
+    letter-spacing: -0.52px;
+    color: #07587B;
+    margin-left:10px;
+    margin-top:10px;
+    opacity: 1;
+}
+#brands .c4 .r1 p{
+    text-align: left;
+    font-size: 1.8rem;
+    letter-spacing: -0.4px;
+    color: #6C6B6C;
+    opacity: 1;
+    margin-top: 15px;
+    
+}
+#brands .c4 .aside{
+    padding-top:80px;
+}
+#brands .c4 .borders {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: -140px;
+    padding: 90px;
+}
+#brands .c4 .borders img{
+    border: 20px solid #F6FFFF;
+    border-radius: 50%;
+} 
+#brands .c4 .borders p{
+    text-align: center;
+    font-size: 2.2rem;
+    letter-spacing: -0.4px;
+    color: #09597C;
+    line-height: 1.5;
+} 
+
+hr{
+    border: 1px solid #707070;
+}

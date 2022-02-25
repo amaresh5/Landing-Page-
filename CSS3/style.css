@@ -1,0 +1,22 @@
+html{
+  font-size: 62.5%;
+}
+  * {
+      margin: 0px;
+      padding: 0px;
+    }
+    body {
+      font-family: "Work Sans", sans-serif;
+    }
+    html{
+        scroll-behavior: smooth;
+    }
+
+
+    nav.scroll {
+      background-color: #A1572F;
+      color: #eef;
+    }
+
+
+   

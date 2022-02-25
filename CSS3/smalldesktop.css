@@ -1,0 +1,36 @@
+
+@media screen and (min-device-width: 835px) and (max-device-width: 1100px)  {
+
+        #news .display{
+            display: none;
+        }
+       
+        #brands .c4 .borders {
+            padding: 0px;
+        }
+
+        .fff{
+            font-size: 2.8rem !important ;
+        }
+        .sss{
+            font-size: 1.6rem !important ;
+        }
+        .mmm{
+            font-size: 2.2rem !important ;
+        }
+
+
+ #about-us .col-lg-8 p {
+    margin-top: 25px;
+ }
+    #about-us .basic{
+        width: 110%;
+        margin-left: -27px;
+    }
+
+
+        
+
+    
+}  
+    
